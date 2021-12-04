@@ -1,1 +1,9 @@
-
+<xml>
+<name> bag 1 </name>
+<a short description of the error>name</a short description of the error>
+<nomber version> 12345</nomber version>
+<bug severity>S4<bug severity>
+<bug priority>P2<bug priority>
+<bug status>open</bug status>
+<labels>cart</labels>
+<comments>no</comments>
